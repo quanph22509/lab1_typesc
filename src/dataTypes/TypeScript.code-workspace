@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../lab1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TypeScript"
+	}
+}
